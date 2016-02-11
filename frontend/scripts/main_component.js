@@ -144,11 +144,7 @@ var App = React.createClass({
                 React.createElement(
                     'h1',
                     null,
-                    React.createElement(
-                        'i',
-                        null,
-                        'Jesus Castaneda'
-                    )
+                    'Jesus Castaneda'
                 ),
                 React.createElement(
                     'a',
