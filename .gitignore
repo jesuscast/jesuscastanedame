@@ -1,0 +1,5 @@
+env/*
+*.log
+*.swp
+*.sh
+*.pyc
