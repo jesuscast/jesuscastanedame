@@ -1,0 +1,1 @@
+python -m SimpleHTTPServer 80 >& web_log.log &
