@@ -1,0 +1,14 @@
+{
+  "name": "jesuscastanedame",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.0.0",
+    "babel-preset-es2015": "^6.5.0"
+  },
+  "dependencies": {
+    "react-atv-img": "^0.1.1"
+  }
+}
