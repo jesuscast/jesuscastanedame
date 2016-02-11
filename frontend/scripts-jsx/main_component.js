@@ -142,7 +142,6 @@ let App = React.createClass({
               <a className='githubLink' href='https://github.com/jesuscast'>Github</a><br />
               <img src='http://www.2001words.com/img/arrow_down.png' className='scrollBtn bounce' />
             </div>
-            Helooo
             </div>
         );
     }

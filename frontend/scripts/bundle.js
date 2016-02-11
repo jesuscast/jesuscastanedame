@@ -154,8 +154,7 @@ var App = React.createClass({
                 ),
                 React.createElement('br', null),
                 React.createElement('img', { src: 'http://www.2001words.com/img/arrow_down.png', className: 'scrollBtn bounce' })
-            ),
-            'Helooo'
+            )
         );
     }
 });
