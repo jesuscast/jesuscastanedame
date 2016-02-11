@@ -21,21 +21,35 @@ body {
 }
 
 .githubLink {
+	transition: all 0.5s ease;
 	border: 0px;
-    padding: 10px 20px 10px 20px;
+    padding: 10px 60px 10px 60px;
     /* border: 1px solid #E61212; */
     border-radius: 10px;
     background-color: #FD9134;
-    /* margin: 100px; */
-    width: 200px;
-    height: 50px;
     color: #fff;
     font-size: 1.3em;
+    text-decoration: none;
+}
+.githubLink:hover {
+	transition: all 0.5s ease;
+    background-color: #D47523;
+}
+.scrollBtn {
+	transition: all 0.5s ease;
+	width: 100px;
+    margin-top: 50px;
+    cursor: pointer;
 }
 
+.scrollBtn:hover {
+	width: 120px;
+    margin-top: 50px;
+}
 /*
 background
 
 #506A85
 
 */
+

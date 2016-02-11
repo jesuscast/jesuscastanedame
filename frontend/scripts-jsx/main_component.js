@@ -139,7 +139,8 @@ let App = React.createClass({
             <canvas id='canvas-animation'></canvas>
             <div className='giantTitle'>
               <h1><i>Jesus Castaneda</i></h1>
-              <button className='githubLink'>Github</button>
+              <a className='githubLink' href='https://github.com/jesuscast'>Github</a><br />
+              <img src='http://www.2001words.com/img/arrow_down.png' className='scrollBtn bounce' />
             </div>
             Helooo
             </div>
